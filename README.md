@@ -1,6 +1,7 @@
 # mi-band-3-persian
 persian language for mi band 3
 <div dir="rtl">
+  <img src="https://user-images.githubusercontent.com/22473099/58502182-4770ce80-819b-11e9-92f3-c126584c82e8.jpg">
   برای شروع ابتدا نرم افزار gadgetbridge را بر روی تلفن همراه خود نصب کنید لینک گوگل پلی
 
 سپس mi band را از برنامه mi fit برو روی تلفن خود  unpair  کنید و در تنظیمات بلوتوث تلفن مطمن شوید که به موبایل وصل نیست و در صورت وصل بودن  forget کنید
